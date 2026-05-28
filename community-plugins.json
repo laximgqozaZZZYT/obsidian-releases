@@ -29244,5 +29244,12 @@
     "author": "othnielsu",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Bridge selected text to Claude Code CLI for real-time context sharing.",
     "repo": "radical7vii/obsidian-claude-code-bridge"
-  }
+  },
+  {
+    "id": "tag-lens",
+    "name": "Tag Lens",
+    "author": "laximgqozaZZZYT",
+    "description": "Lightweight tag-membership visualisations: connection matrix, tag co-occurrence heatmap, UpSet, bipartite tag graph.",
+    "repo": "laximgqozaZZZYT/tag-lens"
+  }  
 ]
